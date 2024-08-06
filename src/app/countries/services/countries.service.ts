@@ -18,7 +18,6 @@ export class CountriesService {
       //delay(2000)
     );
     
-
   }
 
   searchCountryByAlphaCode( code: string ): Observable<Country | null> {
@@ -31,7 +30,6 @@ export class CountriesService {
         catchError( () => of(null) )
       );
   }
-
 
   searchCapital( term: string ): Observable<Country[]> {
 
