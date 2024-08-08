@@ -1,5 +1,9 @@
 # CountryApp
 
+
+https://github.com/user-attachments/assets/17779168-67a3-42bb-93d5-7d8fd6af5415
+
+
 ## Descripción
 
 **CountryApp** es una aplicación desarrollada con Angular que permite a los usuarios buscar y visualizar información de diferentes países. Este proyecto se ha creado con el objetivo de aprender y practicar conceptos de Angular, incluyendo la gestión de rutas, observables, y la manipulación de datos asíncronos.
